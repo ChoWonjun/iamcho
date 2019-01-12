@@ -1,0 +1,16 @@
+.tim-typo h6 {
+    margin: 0 auto;
+    padding-left: 40%;
+}
+
+.tim-typo .wrapper {
+    margin: 0 auto;
+    display: inline-block;
+    width: 400px;
+}
+
+.tim-typo .title {
+    display: inline-block;
+    min-width:  150px;
+    margin: 0;
+}
